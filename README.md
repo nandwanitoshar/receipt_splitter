@@ -1,5 +1,9 @@
 # 🧾 Receipt Splitter
 
+### AI-Powered Receipt Scanner & Smart Bill Splitter
+
+[🚀 Live Demo](https://receiptsplitter-jdx7hmrxn8q56vdewyjmmm.streamlit.app/)
+
 An AI-powered receipt scanning and bill-splitting web application built with Streamlit and Google Gemini.
 
 ## 🚀 Live Demo
